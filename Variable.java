@@ -16,6 +16,7 @@ class Variable{
 
     System.out.println("Operasi matematika dalam int dan String");
     System.out.println(angka + angka2);
+
     
     
   }
